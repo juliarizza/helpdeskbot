@@ -4,7 +4,7 @@
 When a client sends a support message to the bot, it forwards the message to you or your company's group and you can reply it. Replying the message makes the bot reply the client.
 
 1. The client talks to the bot.
-![The client talks to the bot screenshot](screenshots/screeshot1.png)
+![The client talks to the bot screenshot](screenshots/screenshot1.png)
 
 2. The company receives the message and replies it.
 ![The company receives the message and replies it screenshot](screenshots/screenshot2.png)
