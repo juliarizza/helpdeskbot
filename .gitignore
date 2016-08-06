@@ -1,0 +1,5 @@
+# Compiled files
+*.pyc
+*.mo
+
+__pycache__

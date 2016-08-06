@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: helpdeskbot\n"
+"POT-Creation-Date: 2016-08-06 16:06-0300\n"
+"PO-Revision-Date: 2016-08-06 16:07-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: main.py\n"
+
+#: main.py:57
+msgid "Hello!\n"
+msgstr "Olá!\n"
+
+#: main.py:58
+#, python-brace-format
+msgid "I'm {0} and I came here to help you.\n"
+msgstr "Eu sou {0} e vim aqui para te ajudar.\n"
+
+#: main.py:59
+msgid ""
+"What would you like to do?\n"
+"\n"
+msgstr ""
+"O que você gostaria de fazer?\n"
+"\n"
+
+#: main.py:60
+msgid "/support - Opens a new support ticket\n"
+msgstr "/support - Abre um novo ticket de suporte\n"
+
+#: main.py:61
+msgid ""
+"/settings - Settings of your account\n"
+"\n"
+msgstr ""
+"/settings - Configurações da sua conta\n"
+"\n"
+
+#: main.py:107
+msgid "Give me some time to think. Soon I will return to you with an answer."
+msgstr "Me dê um tempo para pensar. Em breve eu irei retornar com uma resposta."
+
+#: main.py:116
+msgid "Please, choose a language:\n"
+msgstr "Por favor, escolha uma linguagem:\n"
+
+#: main.py:152
+#, python-brace-format
+msgid "Language updated to {0}"
+msgstr "Linguagem atualizada para {0}"
+
+#: main.py:157
+msgid "Unknown language! :("
+msgstr "Linguagem desconhecida! :("
+
+#: main.py:165
+msgid "Sorry, I don't know what you're asking for."
+msgstr "Desculpe, eu não sei o que você está pedindo."
+
+#~ msgid "I'm Via Livre Bot and I came here to help you.\n"
+#~ msgstr "Eu sou o Via Livre Bot e vim aqui para te ajudar.\n"
