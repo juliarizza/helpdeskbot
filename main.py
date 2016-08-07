@@ -79,7 +79,7 @@ def support(bot, update):
         Sends the support message. Some kind of "How can I help you?".
     """
     bot.send_message(chat_id=update.message.chat_id,
-                     text="Please, tell me what you need support with :)")
+                     text=_("Please, tell me what you need support with :)"))
 
 
 @user_language
